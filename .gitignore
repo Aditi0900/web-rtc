@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+*.local
+*.log
+dist
+dist-ssr
+node_modules
+pnpm-lock.yaml
